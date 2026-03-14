@@ -1,0 +1,6 @@
+HOST: AME0635277W11-1
+Total de memória disponível em GB: 15.79
+Sistema Operacional: Windows_NT
+Nome do Usuário Ativo: pedro.atsantos2
+Quantidade de CPU: 6
+Modelo da CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
